@@ -1,0 +1,12 @@
+# EC-Earth3 ssp370 2050-COLDER
+Variable,Abbreviation,Unit,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Daily mean temperature,TEMP - tas,∆°C,-1.61,-2.24,-0.77,0.46,-0.51,0.30,-0.02,1.73,0.15,-0.27,-1.03,-2.55
+Maximum temperature,TMAX - tasmax,∆°C,-1.22,-2.23,-1.44,-0.02,-1.12,-0.69,-1.03,1.78,-0.67,-0.72,-0.42,-1.53
+Minimum temperature,TMIN - tasmin,∆°C,-2.10,-2.73,-0.69,0.30,-0.21,0.98,0.36,1.39,1.06,0.28,-1.60,-2.72
+Precipitation,PREC - pr,fraction,0.82,0.81,1.01,1.20,1.18,1.34,1.82,0.91,1.51,1.34,0.57,0.95
+Total downward surface shortwave flux,DSWF - rsds,∆W/m²,6.53,7.66,-4.01,-11.12,-18.29,-25.78,-34.30,13.84,-24.24,-3.29,8.35,5.11
+Total cloud in longwave radiation,TCLW - clt,∆%,-12.18,-5.75,3.51,4.15,2.69,8.29,14.06,-15.20,7.25,-0.67,-12.85,-12.98
+Snow depth,SNOW - snd,fraction,0.78,0.99,0.78,0.63,0.15,1.09,1.00,1.00,0.96,4.54,0.88,0.84
+Specific humidity,SPHU - huss,∆kg/kg,-0.000288,-0.000504,-0.000386,0.000006,-0.000008,0.001186,0.000664,0.000843,0.000702,0.000278,-0.000289,-0.000335
+Mean sea level pressure,MSLP - psl,∆hPa,1.23,-0.14,0.95,1.40,1.22,0.95,0.41,0.98,-0.59,1.85,2.15,2.82
+Wind speed,WIND - sfcWind,fraction,1.0213,0.9748,0.9742,1.0663,1.0317,1.0013,0.9849,1.0061,1.0283,1.0200,0.9245,1.0698

@@ -1,0 +1,12 @@
+# EC-Earth3 ssp126 2050-WARMER
+Variable,Abbreviation,Unit,Jan,Feb,Mar,Apr,May,Jun,Jul,Aug,Sep,Oct,Nov,Dec
+Daily mean temperature,TEMP - tas,∆°C,5.39,4.76,3.80,3.40,3.70,4.47,4.44,4.87,4.32,2.91,3.50,7.57
+Maximum temperature,TMAX - tasmax,∆°C,4.89,5.64,4.12,4.21,4.40,5.00,5.47,5.85,5.14,3.98,3.77,7.10
+Minimum temperature,TMIN - tasmin,∆°C,5.71,4.78,3.46,2.55,3.11,2.85,3.48,3.56,3.82,2.44,3.72,8.08
+Precipitation,PREC - pr,fraction,1.43,0.92,0.96,0.80,0.60,0.19,0.28,0.28,0.23,0.60,1.14,1.36
+Total downward surface shortwave flux,DSWF - rsds,∆W/m²,-14.09,-7.01,-14.40,11.05,41.70,58.62,26.08,25.13,21.78,7.99,-2.68,-8.93
+Total cloud in longwave radiation,TCLW - clt,∆%,13.99,-1.47,4.37,-6.97,-17.67,-23.70,-10.38,-12.72,-17.39,-8.35,2.02,10.47
+Snow depth,SNOW - snd,fraction,0.15,0.04,0.03,0.02,0.01,0.87,1.00,1.00,0.96,0.87,0.02,0.08
+Specific humidity,SPHU - huss,∆kg/kg,0.001327,0.001425,0.001271,0.001004,0.001009,0.000701,0.000068,0.000349,0.000974,0.000604,0.001317,0.002071
+Mean sea level pressure,MSLP - psl,∆hPa,-0.44,-1.06,0.30,0.11,-0.90,-0.18,-1.00,-1.03,0.29,1.02,2.81,-3.46
+Wind speed,WIND - sfcWind,fraction,0.8884,0.9087,0.9555,0.9454,1.0659,1.0720,1.0048,0.9946,0.9162,0.9269,1.0148,0.9844
